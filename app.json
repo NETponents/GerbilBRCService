@@ -1,0 +1,7 @@
+{
+  "name": "GerbilBRCS",
+  "description": "Proxy and controller for large-scale Gerbil attack",
+  "repository": "https://github.com/NETponents/GerbilBRCService",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["Gerbil", "Security", "Brute Force"]
+}
