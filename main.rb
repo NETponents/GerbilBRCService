@@ -8,3 +8,7 @@ require 'json'
 get "/" do
   slim :index
 end
+
+get "/api/v1/:group/:item/:param" do
+  # get item field
+end
