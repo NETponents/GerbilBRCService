@@ -1,6 +1,7 @@
 # Gerbil Backdoor Remote Control Service
 [![Join the chat at https://gitter.im/NETponents/Gerbil](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NETponents/Gerbil?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/NETponents/GerbilBRCService.svg?branch=master)](https://travis-ci.org/NETponents/GerbilBRCService)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/0536bf292c934cc5bf20966ea1ccb966)](https://www.codacy.com/app/jzenn/GerbilBRCService)
 [![overv.io](https://img.shields.io/badge/overv.io-active-blue.svg)](https://overv.io/workspace/ARMmaster17/perfect-chimpanzee/)
 [![Gratipay](https://img.shields.io/gratipay/ARMmaster17.svg)](http://gratipay.com/~ARMmaster17)
 
