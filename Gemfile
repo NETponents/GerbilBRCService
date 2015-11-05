@@ -9,3 +9,4 @@ gem 'rest-client'
 gem 'json'
 gem "rack-test"
 gem 'pony'
+gem 'rake'
