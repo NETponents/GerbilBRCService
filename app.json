@@ -2,6 +2,9 @@
   "name": "GerbilBRCS",
   "description": "Proxy and controller for large-scale Gerbil attack",
   "repository": "https://github.com/NETponents/GerbilBRCService",
+  "website": "http://NETponents.github.com/Gerbil",
+  "repository": "http://github.com/NETponents/GerbilBRCService",
+  "success_url": "/setup",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["Gerbil", "Security", "Brute Force"]
 }
