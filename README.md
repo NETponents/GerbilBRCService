@@ -6,10 +6,16 @@
 [![Gratipay](https://img.shields.io/gratipay/ARMmaster17.svg)](http://gratipay.com/~ARMmaster17)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-#### What is it?
-The Gerbil Backdoor Remote Control Service is a lightweight, fast-deploy tool for managing a large scale attack using the Gerbil automated hacker. It provides a way to issue commands and redirect processing power to effectively take out high priority targets in complex networks.
+### What is it?
+The Gerbil Backdoor Remote Control Service is a lightweight, fast-deploy tool for managing a large scale attack using the Gerbil automated hacker. It provides a way to issue commands and redirect processing power to effectively take out high priority targets in complex networks. It offers a cache to help the Gerbil AI engine have a larger repository in which to draw training data from, making smarter decisions. It also offers an alternative mode to modify the command chain to create a "stabbing ring", in which it becomes near-impossible to trace the origin of the Gerbil-powered attack.
 
-## What is Gerbil?
+### Isn't that dangerous?
+Yep, absolutely, which is why you should read our disclaimer below and don't try it on a computer you use every day or that's not yours.
+
+### No, dangerous, like SkyNet.
+Although Gerbil and many of the AI systems found in Hollywood movies, Gerbil does not posess the capabilities to do such attacks. In order for a Gerbil attack to start, the Gerbil executable must be manually planted behind a firewall. Gerbil has hard-coded rules that dictate what computers it can and can't attack. Part of that rule is that it cannot attack computers outside of it's subnet, making it impossible for an infection to spread outside of the initial attack network.
+
+### What is Gerbil?
 
 Take a look [here. >](https://github.com/NETponents/Gerbil)
 
