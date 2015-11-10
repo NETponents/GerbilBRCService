@@ -13,7 +13,7 @@ The Gerbil Backdoor Remote Control Service is a lightweight, fast-deploy tool fo
 Yep, absolutely, which is why you should read our disclaimer below and don't try it on a computer you use every day or that's not yours.
 
 ### No, dangerous, like SkyNet.
-Although Gerbil and many of the AI systems found in Hollywood movies, Gerbil does not posess the capabilities to do such attacks. In order for a Gerbil attack to start, the Gerbil executable must be manually planted behind a firewall. Gerbil has hard-coded rules that dictate what computers it can and can't attack. Part of that rule is that it cannot attack computers outside of it's subnet, making it impossible for an infection to spread outside of the initial attack network.
+Although Gerbil and many of the AI systems found in Hollywood movies possess similar traits, Gerbil does not posess the capabilities to do such attacks. In order for a Gerbil attack to start, the Gerbil executable must be manually planted behind a firewall. Gerbil has hard-coded rules that dictate what computers it can and can't attack. Part of that rule is that it cannot attack computers outside of it's subnet, making it impossible for an infection to spread outside of the initial attack network.
 
 ### What is Gerbil?
 
