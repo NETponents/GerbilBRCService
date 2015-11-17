@@ -10,3 +10,4 @@ gem 'json'
 gem "rack-test"
 gem 'pony'
 gem 'rake'
+gem 'codacy-coverage', group: :test, require: nil
