@@ -4,7 +4,9 @@ rvm:
 git:
   submodules: false
 env:
-  - RACK_ENV=test
+  global:
+    - RACK_ENV=test
+    - CODACY_PROJECT_TOKEN=588960f66458422cacbbf1898db79954
 notifications:
   email:
     recipients:
