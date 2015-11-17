@@ -19,8 +19,7 @@ branches:
 install:
   - bundle install
 script:
-  #- rake test --trace
-  - echo "Temporarily disabled."
+  - rake test --trace
 #deploy:
 #  provider: heroku
 #  api_key: "9951e24c-b489-48fe-8a60-b325e8d850dd"
