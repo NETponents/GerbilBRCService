@@ -4,6 +4,8 @@ ruby "2.2.1"
 
 gem 'puma'
 gem 'sinatra'
+gem "activerecord"
+gem "sinatra-activerecord"
 gem 'slim'
 gem 'rest-client'
 gem 'json'
