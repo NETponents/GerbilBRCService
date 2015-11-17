@@ -20,8 +20,3 @@ install:
   - bundle install
 script:
   - rake test --trace
-#deploy:
-#  provider: heroku
-#  api_key: "random api key"
-#  app: ldsyouth-notify
-#  skip_cleanup: true
