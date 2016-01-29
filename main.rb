@@ -9,6 +9,6 @@ get "/" do
   slim :index
 end
 
-get "/api/v1/:group/:item/:param" do
-  # get item field
+get "/api/v1/util/version" do
+  "Gerbil BRCS v0.1a"
 end
